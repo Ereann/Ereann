@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @Ereann
-- 👀 I’m interested in data analyst 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on various top business
-- 📫 How to reach me " private message or email would work" 
-
-- ⚡ Fun fact: just a nerd
-- 
-
-<!---
-Ereann/Ereann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT Graduate | Aspiring Data Analyst & Support Engineer
+Working with Python, SQL, QGIS, and data analytics.
+Interested in automation, geospatial analysis, and solving real-world technical problems.
+Technical & Detailed
+IT Graduate • Data Analytics & IT Support
+Skilled in Python, SQL, Pandas, scikit-learn
+Experience with QGIS scripting, data preprocessing, and supervised ML models
+Passionate about problem-solving, clean code, and continuous learning
+Casual & Clean
+Tech enthusiast exploring data analytics, automation, and geospatial tools.
+Currently building projects with Python, SQL, and QGIS.
