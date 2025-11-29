@@ -8,4 +8,3 @@ Experience with QGIS scripting, data preprocessing, and supervised ML models
 Passionate about problem-solving, clean code, and continuous learning
 Casual & Clean
 Tech enthusiast exploring data analytics, automation, and geospatial tools.
-Currently building projects with Python, SQL, and QGIS.
